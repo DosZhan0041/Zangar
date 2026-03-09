@@ -1,0 +1,22 @@
+{
+  "applications": [
+    {
+      "name": "Zangar",
+      "phone": "87777777777",
+      "direction": "back",
+      "id": 1
+    },
+    {
+      "name": "Danil",
+      "phone": "87777777777",
+      "direction": "front",
+      "id": 3
+    },
+    {
+      "name": "Jonny",
+      "phone": "89999999999",
+      "direction": "back",
+      "id": 5
+    }
+  ]
+}
